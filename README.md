@@ -8,8 +8,8 @@ Repositório criado, do Jogo Dino Game, focando em manipulação do Dom, atravé
 - CSS
 - JavaScript
 
-## Projeto
+## Dino Game
 
 <h1 align="center">
-    <img alt="DINO GAME" title="Projeto" src="https://github.com/ViniciusLima7/crenteflix/blob/master/img/github.png" />
+    <img alt="DINO GAME" title="Projeto" src="https://github.com/ViniciusLima7/dino-game/blob/master/img/capa-dino-game.png" />
 </h1>
